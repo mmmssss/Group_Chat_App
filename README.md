@@ -6,9 +6,13 @@
 
 ![Firebase](https://user-images.githubusercontent.com/44014471/119268140-891e9d80-bc2c-11eb-90e8-ff095503d9e0.png)
 
-#### ・Firebase Realtime Database
+#### ・[Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-#### ・Firebase Authentication
+The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
+
+#### ・[Firebase Authentication](https://firebase.google.com/docs/auth)
+
+Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
 
 ## Demo
 
