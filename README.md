@@ -4,7 +4,7 @@
 
 ## Chat System
 
-![Firebase](https://user-images.githubusercontent.com/44014471/119268140-891e9d80-bc2c-11eb-90e8-ff095503d9e0.png)
+<img src="https://user-images.githubusercontent.com/44014471/119268140-891e9d80-bc2c-11eb-90e8-ff095503d9e0.png" width="300">
 
 #### ・[Firebase Realtime Database](https://firebase.google.com/docs/database)
 
@@ -13,6 +13,15 @@ The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSO
 #### ・[Firebase Authentication](https://firebase.google.com/docs/auth)
 
 Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
+
+## Notification System
+
+<img src="https://user-images.githubusercontent.com/44014471/119268493-3f36b700-bc2e-11eb-817c-9fc1831daf8a.png" width="300">
+
+#### [Unity Mobile Notifications Package](https://docs.unity3d.com/Packages/com.unity.mobile.notifications@1.0/manual/index.html)
+
+The runtime API is split into two parts: AndroidNotificationCenter and iOSNotificationCenter. These can be used to schedule and manage notifications for their respective platforms. You can download a sample Project which implements a high-level wrapper that you can use to send notifications to both Android and iOS with the same API from our [GitHub page](https://github.com/Unity-Technologies/NotificationsSamples), or see the code samples below.
+
 
 ## Demo
 
