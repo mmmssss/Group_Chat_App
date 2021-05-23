@@ -1,6 +1,14 @@
 # Group_Chat_App
 
-<img src="https://user-images.githubusercontent.com/44014471/119259753-ab9fbf00-bc0a-11eb-93ba-16091c5f3fa3.png" width="320px">
+![Group_Chat_App](https://user-images.githubusercontent.com/44014471/119267975-d0585e80-bc2b-11eb-8876-9ebef4db4988.png)
+
+## Chat System
+
+![Firebase](https://user-images.githubusercontent.com/44014471/119268140-891e9d80-bc2c-11eb-90e8-ff095503d9e0.png)
+
+#### ・Firebase Realtime Database
+
+#### ・Firebase Authentication
 
 ## Demo
 
